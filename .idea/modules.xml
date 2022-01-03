@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Hilos.iml" filepath="$PROJECT_DIR$/Hilos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java8_lambda.iml" filepath="$PROJECT_DIR$/Java8_lambda.iml" />
     </modules>
   </component>
 </project>
